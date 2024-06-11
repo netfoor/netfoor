@@ -12,7 +12,7 @@ Currently I am studying some programming lenguages such as C#, JavaSript and Pyt
 </div>
 
 
-## ✨ Tools:
+## ✨ Languages and tools:
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
