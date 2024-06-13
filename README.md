@@ -8,7 +8,7 @@ Currently I am studying some programming lenguages such as C#, JavaSript and Pyt
 <div>
   <a href="https://www.linkedin.com/in/fortino-romero-mantilla" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
   <a href="https://www.instagram.com/foor.rm/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a>&nbsp;
-  <a href="2311080254@alumno.utpuebla.edu.mx" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" title="Gmail" alt="Gmail" width="40" height="40"/></a>&nbsp;
+  <a href="netfoor@outlook.com?subject=Desde GitHub:?body=Hola%20Jes%C3%BAs" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" title="Gmail" alt="Gmail" width="40" height="40"/></a>&nbsp;
 </div>
 
 
