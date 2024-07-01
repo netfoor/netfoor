@@ -59,3 +59,12 @@ Currently I am studying some programming lenguages such as C#, JavaSript and Pyt
 </div>
 
 ---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netfoor&theme=gotham&layout=compact" width="40%"/> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/netfoor?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=netfoor&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@netfoor's github-readme-stats"/></a>
+  <a href="https://github.com/netfoor?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=netfoor&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@netfoor's github-readme-streak-stats"/></a>
+</p>
