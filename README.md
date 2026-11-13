@@ -2,7 +2,7 @@
 
 Cloud and software engineer in Puebla, Mexico. I build serverless, event-driven systems on AWS, define infrastructure as code with Terraform and AWS CDK, and work with data and AI.
 
-[foor.dev](https://foor.dev) · [LinkedIn](https://linkedin.com/in/fortino-romero-mantilla)
+[foor.dev](https://foor.dev) · [LinkedIn](https://linkedin.com/in/fortino-romero-mantilla) · [fortino.romero.man@gmail.com](mailto:fortino.romero.man@gmail.com)
 
 ## Experience
 
