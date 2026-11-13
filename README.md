@@ -24,7 +24,20 @@ Cloud and software engineer in Puebla, Mexico. I build serverless, event-driven 
 
 ## Stack
 
-Python (uv, FastAPI), TypeScript, AWS, Terraform, AWS CDK, Docker, GitHub Actions, Git. Working knowledge of Kubernetes, Bash and pytest.
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python" title="Python" width="48" height="48"></picture>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" alt="FastAPI" title="FastAPI" width="48" height="48">&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" width="48" height="48">&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="AWS" title="AWS" width="48" height="48"></picture>&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terraform-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terraform-Light.svg" alt="Terraform" title="Terraform" width="48" height="48"></picture>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" width="48" height="48">&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48">&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Light.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48"></picture>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="48" height="48">&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Light.svg" alt="Bash" title="Bash" width="48" height="48"></picture>
+</p>
+
+Also AWS CDK and pytest, with working knowledge of Kubernetes.
 
 ## Education
 
